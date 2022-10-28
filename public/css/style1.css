@@ -1,0 +1,586 @@
+.elementor-container {
+    max-width: 768px;
+}
+.elementor-section .elementor-container
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+.elementor-row {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.elementor-row {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.elementor-column {
+    width: 100%;
+}
+.elementor-column, .elementor-column-wrap {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.elementor-column
+ {
+    min-height: 1px;
+}
+.elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated {
+    padding: 10px;
+}
+
+.elementor-column-wrap {
+    width: 100%;
+}
+.elementor-column, .elementor-column-wrap {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.elementor:not(.elementor-bc-flex-widget) .elementor-widget-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.elementor-widget-wrap {
+    position: relative;
+    width: 100%;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-line-pack: start;
+    align-content: flex-start;
+}
+.elementor-5533 .elementor-element.elementor-element-53b2b9b > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 5px;
+}
+
+.elementor-5533 .elementor-element.elementor-element-96b3b92 {
+    text-align: center;
+}
+.elementor-widget:not(:last-child) {
+    margin-bottom: 20px;
+}
+.elementor-widget-wrap>.elementor-element {
+    width: 100%;
+}
+.elementor-widget {
+    position: relative;
+}
+#pricetable {
+    height: 600px;
+    overflow: auto;
+}
+.elementor-widget-wrap>.elementor-element {
+    width: 100%;
+}
+.elementor-5533 .elementor-element.elementor-element-96b3b92 > .elementor-widget-container {
+    margin: 0px 17px 0px 0px;
+}
+
+
+.elementor-5533 .elementor-element.elementor-element-96b3b92 > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+.elementor-5533 .elementor-element.elementor-element-96b3b92 > .elementor-widget-container {
+    margin: 0px 17px 0px 0px;
+    padding: 15px 15px 15px 15px;
+    border-style: solid;
+    border-color: #9c1a7c;
+}
+
+.elementor-widget {
+    position: relative;
+}
+.elementor-5533 .elementor-element.elementor-element-f135b26 > .elementor-widget-container {
+    padding: 4px 4px 4px 4px;
+    border-style: solid;
+    border-width: 3px 3px 3px 3px;
+    border-color: #1A6C9C;
+}
+.ekit-wid-con a, .ekit-wid-con b, .ekit-wid-con div, .ekit-wid-con li, .ekit-wid-con ul {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
+    -moz-outline-: none;
+}
+
+.dataTables_wrapper {
+    position: relative;
+    clear: both;
+    *zoom: 1;
+    zoom: 1;
+}
+.dataTables_wrapper {
+    clear: both;
+    margin-bottom: 1em;
+}
+
+
+.elementor-5533 .elementor-element.elementor-element-f135b26 .elemenetskit-tablepress .dataTables_length {
+    display: none;
+}
+
+
+.dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_length {
+    float: none;
+    text-align: center;
+}
+.dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_paginate, .dataTables_wrapper .dataTables_processing {
+    color: #333;
+}
+.dataTables_wrapper .dataTables_length {
+    float: left;
+}
+.ekit-wid-con a, .ekit-wid-con b, .ekit-wid-con div, .ekit-wid-con li, .ekit-wid-con ul {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
+    -moz-outline-: none;
+}
+.dataTables_length {
+    float: left;
+    white-space: nowrap;
+}
+.dataTables_wrapper .dataTables_filter {
+    float: left;
+    text-align: left;
+}
+
+
+.dataTables_wrapper .dataTables_filter {
+    margin-top: 0.5em;
+}
+
+.dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_length {
+    float: none;
+    text-align: center;
+}
+.dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_paginate, .dataTables_wrapper .dataTables_processing {
+    color: #333;
+}
+.dataTables_wrapper .dataTables_filter {
+    float: right;
+    text-align: right;
+}
+.ekit-wid-con a, .ekit-wid-con b, .ekit-wid-con div, .ekit-wid-con li, .ekit-wid-con ul {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
+    -moz-outline-: none;
+}
+.dataTables_filter, .ekit_table .dataTables_wrapper .dataTables_length, .ekit_table .ekit_table_length {
+    padding-bottom: 20px;
+}
+.dataTables_filter {
+    float: right;
+    white-space: nowrap;
+}
+.ekit-wid-con.elemenetskit-tablepress .dataTables_filter input, .ekit-wid-con.elemenetskit-tablepress .dataTables_filter select, .ekit-wid-con.elemenetskit-tablepress .dataTables_length input, .ekit-wid-con.elemenetskit-tablepress .dataTables_length select {
+    color: #666;
+    padding: 0.75em;
+    height: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #eaeaea;
+    border-radius: 2px;
+    background: #fafafa;
+    box-shadow: none;
+    box-sizing: border-box;
+    transition: all .2s linear;
+}
+
+.dataTables_wrapper label input, .dataTables_wrapper label select {
+    display: inline;
+    margin: 2px;
+    width: auto;
+}
+#tablepress-3_filter label {
+    font-family: 'Roboto';
+    font-weight: 700;
+    color: #1a6c9c;
+}
+.ekit-wid-con.elemenetskit-tablepress .dataTables_filter input {
+    border-color: #1a6c9c;
+    background: #e7f0f3;
+}
+
+.ekit-wid-con.elemenetskit-tablepress .dataTables_filter input, .ekit-wid-con.elemenetskit-tablepress .dataTables_filter select, .ekit-wid-con.elemenetskit-tablepress .dataTables_length input, .ekit-wid-con.elemenetskit-tablepress .dataTables_length select {
+    color: #666;
+    padding: 0.75em;
+    height: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #eaeaea;
+    border-radius: 2px;
+    background: #fafafa;
+    box-shadow: none;
+    box-sizing: border-box;
+    transition: all .2s linear;
+}
+.dataTables_wrapper .dataTables_filter input {
+    margin-left: 0.5em;
+}
+.dataTables_wrapper .dataTables_filter input {
+    margin-left: 0.5em;
+}
+.dataTables_wrapper label input, .dataTables_wrapper label select {
+    display: inline;
+    margin: 2px;
+    width: auto;
+}
+.ekit-wid-con a:active, .ekit-wid-con a:focus, .ekit-wid-con input, .ekit-wid-con input:active, .ekit-wid-con input:focus, .ekit-wid-con input:hover, .ekit-wid-con textarea, .ekit-wid-con textarea:active, .ekit-wid-con textarea:focus, .ekit-wid-con textarea:hover {
+    -moz-outline: none;
+    outline: none;
+}
+[type=search] {
+    outline-offset: -2px;
+    -webkit-appearance: none;
+}
+.elementor-5533 .elementor-element.elementor-element-f135b26 .elemenetskit-tablepress table.tablepress {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+}
+
+table.dataTable.no-footer {
+    border-bottom: 1px solid #111;
+}
+.dataTables_wrapper .tablepress {
+    clear: both;
+    margin: 0!important;
+}
+table.dataTable, table.dataTable td, table.dataTable th {
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+}
+table.dataTable {
+    width: 100%;
+    margin: 0 auto;
+    clear: both;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+.tablepress {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    margin-bottom: 1em;
+    border: none;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+table.dataTable tbody tr {
+    background-color: #ffffff;
+}
+
+.table-striped > tbody > tr:nth-child(odd), table > tbody > tr:nth-child(odd) {
+    border: 1px solid #e7e7e7;
+}
+
+.elementor-5533 .elementor-element.elementor-element-f135b26 .elemenetskit-tablepress .tablepress .even td {
+    background-color: #cee1e8;
+    border-color: #f1f1f1;
+    color: #3e5b7b;
+}
+
+.elementor-5533 .elementor-element.elementor-element-f135b26 .elemenetskit-tablepress .tablepress .even td {
+    background-color: #f7f7f7;
+    border-color: #ccc;
+}
+.elementor-5533 .elementor-element.elementor-element-f135b26 .elemenetskit-tablepress table.tablepress tr td {
+    text-align: center;
+}
+.elementor-5533 .elementor-element.elementor-element-f135b26 .elemenetskit-tablepress .tablepress td {
+    border-style: solid;
+    border-width: 1px;
+    padding: 0.5em 1em 0.5em 1em;
+}
+.ekit-wid-con table.dataTable tbody td, .ekit-wid-con table.dataTable tbody th, .ekit-wid-con table.dataTable thead td, .ekit-wid-con table.dataTable thead th {
+    transition: all 0.4s ease;
+}
+.tablepress tbody tr:first-child td {
+    border-top: 0;
+}
+.tablepress .even td {
+    background-color: #fff;
+}
+table.dataTable tbody td, table.dataTable tbody th {
+    padding: 8px 10px;
+}
+table.dataTable, table.dataTable td, table.dataTable th {
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+}
+.tablepress tbody td, .tablepress tfoot th {
+    border-top: 1px solid #ddd;
+}
+.tablepress tbody td {
+    vertical-align: top;
+}
+.tablepress td, .tablepress th {
+    padding: 8px;
+    border: none;
+    background: 0 0;
+    text-align: left;
+    float: none!important;
+}
+.elementor-5533 .elementor-element.elementor-element-f135b26 .elemenetskit-tablepress .dataTables_info {
+    display: none;
+}
+
+
+.dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_paginate {
+    float: none;
+    text-align: center;
+}
+.dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_paginate, .dataTables_wrapper .dataTables_processing {
+    color: #333;
+}
+.dataTables_wrapper .dataTables_info {
+    clear: both;
+    float: left;
+    padding-top: 0.755em;
+}
+.ekit-wid-con a, .ekit-wid-con b, .ekit-wid-con div, .ekit-wid-con li, .ekit-wid-con ul {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
+    -moz-outline-: none;
+}
+.dataTables_info {
+    clear: both;
+    float: left;
+    margin: 4px 0 0;
+}
+.elementor-5533 .elementor-element.elementor-element-f135b26 .elemenetskit-tablepress .dataTables_paginate {
+    display: none;
+}
+
+
+
+.dataTables_wrapper .dataTables_paginate {
+    margin-top: 0.5em;
+}
+
+.dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_paginate {
+    float: none;
+    text-align: center;
+}
+.dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_paginate, .dataTables_wrapper .dataTables_processing {
+    color: #333;
+}
+.dataTables_wrapper .dataTables_paginate {
+    float: right;
+    text-align: right;
+    padding-top: 0.25em;
+}
+.dataTables_paginate.paging_simple {
+    padding: 0 15px;
+}
+.ekit-wid-con a, .ekit-wid-con b, .ekit-wid-con div, .ekit-wid-con li, .ekit-wid-con ul {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
+    -moz-outline-: none;
+}
+.dataTables_paginate {
+    float: right;
+    margin: 4px 0 0;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:active, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:hover {
+    cursor: default;
+    color: #666!important;
+    border: 1px solid transparent;
+    background: transparent;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    min-width: 1.5em;
+    padding: 0.5em 1em;
+    margin-left: 2px;
+    text-align: center;
+    text-decoration: none!important;
+    cursor: pointer;
+    *cursor: hand;
+    color: #333!important;
+    border: 1px solid transparent;
+    border-radius: 2px;
+}
+.dataTables_paginate a:first-child {
+    margin-left: 0;
+}
+.paginate_button.disabled {
+    color: #999!important;
+    text-decoration: none;
+    cursor: default;
+}
+.ekit-wid-con a {
+    text-decoration: none;
+    outline: 0;
+}
+.ekit-wid-con a, .ekit-wid-con b, .ekit-wid-con div, .ekit-wid-con li, .ekit-wid-con ul {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
+    -moz-outline-: none;
+}
+.dataTables_paginate a {
+    color: #111!important;
+    display: inline-block;
+    outline: 0;
+    position: relative;
+    text-decoration: underline;
+    margin: 0 5px;
+}
+.elementor a {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    text-decoration: none;
+}
+.elementor-5533 .elementor-element.elementor-element-f135b26 .elemenetskit-tablepress .tablepress th {
+    background-color: #1a6c9c;
+    color: #fff;
+}
+
+.elementor-5533 .elementor-element.elementor-element-f135b26 .elemenetskit-tablepress .tablepress th {
+    text-align: center;
+    background-color: #dfe3e6;
+    color: #333;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+    padding: 1em 1em 1em 1em;
+}
+.ekit-wid-con table[aria-describedby] thead th {
+    text-align: center;
+    background-color: #6E5BDE;
+    color: #fff;
+}
+.ekit-wid-con table.dataTable tbody td, .ekit-wid-con table.dataTable tbody th, .ekit-wid-con table.dataTable thead td, .ekit-wid-con table.dataTable thead th {
+    transition: all 0.4s ease;
+}
+table.dataTable thead td, table.dataTable thead th {
+    padding: 10px 18px;
+    border-bottom: 1px solid #111;
+}
+table.dataTable tfoot th, table.dataTable thead th {
+    font-weight: bold;
+}
+
+.tablepress tr th {
+    width: 25px!important;
+}
+table.dataTable, table.dataTable td, table.dataTable th {
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+}
+.tablepress tfoot th, .tablepress thead th {
+    background-color: #d9edf7;
+    font-weight: 700;
+    vertical-align: middle;
+}
+.tablepress thead th {
+    border-bottom: 1px solid #ddd;
+}
+.tablepress td, .tablepress th {
+    padding: 8px;
+    border: none;
+    background: 0 0;
+    text-align: left;
+    float: none!important;
+}
+.elementor-5533 .elementor-element.elementor-element-f135b26 .elemenetskit-tablepress .tablepress .odd td {
+    background-color: #e7f0f3;
+    border-color: #f1f1f1;
+    color: #3e5b7b;
+}
+
+.elementor-5533 .elementor-element.elementor-element-f135b26 .elemenetskit-tablepress .tablepress .odd td {
+    background-color: #fff;
+    border-color: #ccc;
+}
+.elementor-5533 .elementor-element.elementor-element-f135b26 .elemenetskit-tablepress table.tablepress tr td {
+    text-align: center;
+}
+.elementor-5533 .elementor-element.elementor-element-f135b26 .elemenetskit-tablepress .tablepress td {
+    border-style: solid;
+    border-width: 1px;
+    padding: 0.5em 1em 0.5em 1em;
+}
+.ekit-wid-con table.dataTable tbody td, .ekit-wid-con table.dataTable tbody th, .ekit-wid-con table.dataTable thead td, .ekit-wid-con table.dataTable thead th {
+    transition: all 0.4s ease;
+}
+.tablepress .odd td {
+    background-color: #f9f9f9;
+}
+table.dataTable tbody td, table.dataTable tbody th {
+    padding: 8px 10px;
+}
+table.dataTable, table.dataTable td, table.dataTable th {
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+}
+.tablepress tbody td, .tablepress tfoot th {
+    border-top: 1px solid #ddd;
+}
+.tablepress tbody td {
+    vertical-align: top;
+}
+.tablepress td, .tablepress th {
+    padding: 8px;
+    border: none;
+    background: 0 0;
+    text-align: left;
+    float: none!important;
+}
+button, input {
+    overflow: visible;
+}
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+input[type="search" i] {
+    appearance: auto;
+    box-sizing: border-box;
+    padding: 1px 2px;
+}
+
+.elementor-5533 .elementor-element.elementor-element-96b3b92 .elementor-heading-title {
+    color: #1A6C9C;
+}
+
+.elementor-widget-heading .elementor-heading-title {
+    color: var( --e-global-color-primary );
+    font-weight: var( --e-global-typography-primary-font-weight );
+}
+.elementor-heading-title {
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+}
